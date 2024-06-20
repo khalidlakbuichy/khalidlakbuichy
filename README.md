@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Lakbuichy</h1>
-<h3 align="center">CS Student @ UM6P- 1337 | Passionate about AI & Data Science</h3>
+<h3 align="center">CS Student @ UM6P- 1337</h3>
 
 - 🔭 I’m currently working on [philosopher](https://github.com/khalidlakbuichy/philosopher)
 
