@@ -2,7 +2,7 @@
 ## CS Student @ UM6P | 1337 Network
 
 - 🔭 I’m currently working on building modern web applications and system projects that explore **full-stack development, web servers, and shells**.  
-- 📫 How to reach me: **khalid.lakbuichy3@gmail.com**
+- 📫 How to reach me: **khalid.lakbuichy@gmail.com**
 
 ---
 
