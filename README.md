@@ -20,7 +20,7 @@
 
 ### 🛠️ The Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,c,cpp,linux,postgres,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,c,cpp,linux,postgres,&theme=dark" />
   <br>
   <b>Focus:</b> LangChain • OpenAI GPT-4 • Vector DBs • RAG • Asyncio • Systems Performance
 </div>
