@@ -27,8 +27,6 @@ I like problems where the hard part is engineering, not the model: concurrency, 
 
 **Real-time voice AI** — A decoupled WebRTC gateway and AI pipeline communicating over Redis pub/sub: VAD → speech-to-text → LLM with tool calling → text-to-speech, with barge-in interruption handling and a stateful conversation engine.
 
-**Full stack** — TypeScript, React, PostgreSQL, FastAPI. I can ship the interface, not just the backend behind it.
-
 ---
 
 ### Tech stack
@@ -43,17 +41,6 @@ I like problems where the hard part is engineering, not the model: concurrency, 
 
 ---
 
-### Selected projects
-
-**[Fahras AI](#)** — Headless FastAPI microservice for universal knowledge extraction. Takes multimodal input, returns structured JSON ready for vector database ingestion.
-
-**[sql-genie](#)** — Autonomous Text-to-SQL agent built on LangChain. Generates queries, detects its own failures, rewrites, and renders results as Plotly visualizations.
-
-**[minishell](#)** — A Unix shell in C. Parsing, pipes, redirections, signal handling, environment management, built-ins — no external shell libraries.
-
-**[webserv](#)** — An HTTP/1.1 server in C++ handling concurrent connections with non-blocking I/O and CGI support.
-
----
 
 <div align="center">
 
